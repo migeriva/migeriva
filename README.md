@@ -1,1 +1,1 @@
-<center>Titulo</center>
+<div align="center" >Titulo</div>
