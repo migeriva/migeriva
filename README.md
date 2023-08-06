@@ -1,1 +1,1 @@
-<div align="center" >Titulo</div>
+<div align="center">Titulo</div>
